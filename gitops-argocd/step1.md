@@ -4,5 +4,5 @@
 
 This will create a two node Kubernetes cluster.
 
-# Health Check
-`kubectl cluster-info`{{execute}}
+# Check Nodes
+`kubectl get nodes`{{execute}}
